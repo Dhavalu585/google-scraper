@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest",
+    "fs": "latest",
+    "app": "latest",
+    "path": "latest",
+    "tableify": "latest"
+  }
+}
